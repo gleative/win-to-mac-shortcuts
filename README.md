@@ -1,2 +1,4 @@
 # win-to-mac-shortcuts
-Gives you mac like shortcuts on windows. Run this script with AutoHotkey. 
+Obtain mac like shortcuts on your windows machine.
+
+Run this script with AutoHotkey.
